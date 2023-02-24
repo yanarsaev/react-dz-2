@@ -4,8 +4,20 @@ h1{
 
 .list{
     list-style: none;
+    padding-bottom: 10px;
+    border-bottom: 1px solid red;
 }
 
 .list-1{
-    
+    color: blueviolet;
+    background-color: aqua;
+}
+
+.list-2{
+    font-size: 24px;
+    color: blue;
+}
+
+.list-3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
